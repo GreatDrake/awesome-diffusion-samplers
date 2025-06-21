@@ -37,6 +37,9 @@ Aaron Havens, et al. ICML 2025. [[code](https://github.com/facebookresearch/adjo
 [Training Neural Samplers with Reverse Diffusive KL Divergence](https://arxiv.org/abs/2410.12456)  
 Jiajun He, et al. AISTATS 2025. [[code](https://github.com/jiajunhe98/DiKL)] 
 
+[No Trick, No Treat: Pursuits and Challenges Towards Simulation-free Training of Neural Samplers](https://arxiv.org/abs/2502.06685)  
+Jiajun He, et al. ICLR 2025 Workshop on Frontiers in Probabilistic Inference. 
+
 [Adaptive teachers for amortized samplers](https://arxiv.org/abs/2410.01432)  
 Minsu Kim, et al. ICLR 2025. [[code](https://github.com/alstn12088/adaptive-teacher)] 
 
