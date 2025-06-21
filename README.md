@@ -67,6 +67,9 @@ Lorenz Richter, et al. ICLR 2024. [[code](https://github.com/juliusberner/sde_sa
 [An optimal control perspective on diffusion-based generative modeling](https://arxiv.org/abs/2211.01364)  
 Julius Berner, et al. TMLR 2024. [[code](https://github.com/juliusberner/sde_sampler)] 
 
+[A Theory of Continuous Generative Flow Networks](https://arxiv.org/abs/2301.12594)  
+Salem Lahlou, et al. ICML 2023. [[code](https://github.com/saleml/continuous-gfn)]  
+
 [Denoising Diffusion Samplers](https://arxiv.org/abs/2302.13834)  
 Francisco Vargas, et al. ICLR 2023. [[code](https://github.com/franciscovargas/denoising_diffusion_samplers)]  
 
