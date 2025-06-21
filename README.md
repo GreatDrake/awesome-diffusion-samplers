@@ -22,6 +22,9 @@ Sebastian Sanokowski, et al.
 [Adaptive Destruction Processes for Diffusion Samplers](https://arxiv.org/abs/2506.01541)  
 Timofei Gritsaev, et al. 
 
+[NETS: A Non-Equilibrium Transport Sampler](https://arxiv.org/abs/2410.02711)  
+Michael Samuel Albergo, et al. 
+
 [From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training](https://arxiv.org/abs/2501.06148)  
 Julius Berner, et al. [[code](https://github.com/GFNOrg/gfn-diffusion/tree/stagger)] 
 
@@ -33,6 +36,9 @@ Aaron Havens, et al. ICML 2025. [[code](https://github.com/facebookresearch/adjo
 
 [Training Neural Samplers with Reverse Diffusive KL Divergence](https://arxiv.org/abs/2410.12456)  
 Jiajun He, et al. AISTATS 2025. [[code](https://github.com/jiajunhe98/DiKL)] 
+
+[Adaptive teachers for amortized samplers](https://arxiv.org/abs/2410.01432)  
+Minsu Kim, et al. ICLR 2025. [[code](https://github.com/alstn12088/adaptive-teacher)] 
 
 [Learned Reference-based Diffusion Sampling for multi-modal distributions](https://arxiv.org/abs/2410.19449)  
 Maxence Noble, et al. ICLR 2025. [[code](https://github.com/h2o64/sde_sampler_lrds)] 
