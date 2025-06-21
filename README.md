@@ -26,7 +26,7 @@ Timofei Gritsaev, et al.
 Julius Berner, et al. [[code](https://github.com/GFNOrg/gfn-diffusion/tree/stagger)] 
 
 [Outsourced Diffusion Sampling: Efficient Posterior Inference in Latent Spaces of Generative Models](https://arxiv.org/abs/2502.06999)  
-Siddarth Venkatraman, et al. ICML 2025. 
+Siddarth Venkatraman, et al. ICML 2025. [[code](https://github.com/HyperPotatoNeo/Outsourced_Diffusion_Sampling)] 
 
 [Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](https://arxiv.org/abs/2504.11713)  
 Aaron Havens, et al. ICML 2025. [[code](https://github.com/facebookresearch/adjoint_sampling)] 
