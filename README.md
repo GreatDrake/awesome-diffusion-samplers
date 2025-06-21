@@ -64,6 +64,9 @@ Francisco Vargas, et al. ICLR 2024. [[code](https://github.com/shreyaspadhy/CMCD
 [Improved sampling via learned diffusions](https://arxiv.org/abs/2307.01198)  
 Lorenz Richter, et al. ICLR 2024. [[code](https://github.com/juliusberner/sde_sampler)]  
 
+[An optimal control perspective on diffusion-based generative modeling](https://arxiv.org/abs/2211.01364)  
+Julius Berner, et al. TMLR 2024. [[code](https://github.com/juliusberner/sde_sampler)] 
+
 [Denoising Diffusion Samplers](https://arxiv.org/abs/2302.13834)  
 Francisco Vargas, et al. ICLR 2023. [[code](https://github.com/franciscovargas/denoising_diffusion_samplers)]  
 
