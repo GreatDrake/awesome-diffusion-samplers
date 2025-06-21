@@ -16,6 +16,30 @@ Rishal Aggarwal, et al. ICLR 2025 Blogpost Track.
 
 ## Papers
 
+[Rethinking Losses for Diffusion Bridge Samplers](https://arxiv.org/abs/2506.10982)  
+Sebastian Sanokowski, et al. 
+
+[Adaptive Destruction Processes for Diffusion Samplers](https://arxiv.org/abs/2506.01541)  
+Timofei Gritsaev, et al. 
+
+[From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training](https://arxiv.org/abs/2412.07081)  
+Julius Berner, et al. [[code](https://github.com/GFNOrg/gfn-diffusion/tree/stagger)] 
+
+[Outsourced Diffusion Sampling: Efficient Posterior Inference in Latent Spaces of Generative Models](https://arxiv.org/abs/2502.06999)  
+Siddarth Venkatraman, et al. ICML 2025. 
+
+[Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](https://arxiv.org/abs/2504.11713)  
+Aaron Havens, et al. ICML 2025. [[code](https://github.com/facebookresearch/adjoint_sampling)] 
+
+[Sequential Controlled Langevin Diffusions](https://arxiv.org/abs/2412.07081)  
+Junhua Chen, et al. ICLR 2025. [[code](https://github.com/anonymous3141/SCLD)] 
+
+[End-To-End Learning of Gaussian Mixture Priors for Diffusion Sampler](https://arxiv.org/abs/2503.00524)  
+Denis Blessing, et al. ICLR 2025. 
+
+[Underdamped Diffusion Bridges with Applications to Sampling](https://arxiv.org/abs/2503.01006)  
+Denis Blessing, et al. ICLR 2025. [[code](https://github.com/DenisBless/UnderdampedDiffusionBridges)] 
+
 [Improved off-policy training of diffusion samplers](https://arxiv.org/abs/2402.05098)  
 Marcin Sendera, et al. NeurIPS 2024. [[code](https://github.com/GFNOrg/gfn-diffusion)] 
 
@@ -27,6 +51,12 @@ Denis Blessing, et al. ICML 2024. [[code](https://github.com/DenisBless/variatio
 
 [Iterated Denoising Energy Matching for Sampling from Boltzmann Densities](https://arxiv.org/abs/2402.06121)  
 Tara Akhound-Sadegh, et al. ICML 2024. [[code](https://github.com/jarridrb/dem)] 
+
+[Physics-informed neural networks for sampling](https://openreview.net/forum?id=KwHPBIGkET)  
+Jingtong Sun, et al. ICLR 2024 Workshop on AI4DifferentialEquations In Science. 
+
+[Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
+Dinghuai Zhang, et al. ICLR 2024. [[code](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers)] 
 
 [Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
 Dinghuai Zhang, et al. ICLR 2024. [[code](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers)] 
