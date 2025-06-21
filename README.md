@@ -58,9 +58,6 @@ Jingtong Sun, et al. ICLR 2024 Workshop on AI4DifferentialEquations In Science.
 [Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
 Dinghuai Zhang, et al. ICLR 2024. [[code](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers)] 
 
-[Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization](https://arxiv.org/abs/2310.02679)  
-Dinghuai Zhang, et al. ICLR 2024. [[code](https://github.com/zdhNarsil/Diffusion-Generative-Flow-Samplers)] 
-
 [Transport meets Variational Inference: Controlled Monte Carlo Diffusions](https://arxiv.org/abs/2307.01050)  
 Francisco Vargas, et al. ICLR 2024. [[code](https://github.com/shreyaspadhy/CMCD)] 
 
