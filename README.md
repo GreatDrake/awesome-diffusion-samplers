@@ -28,6 +28,9 @@ Michael Samuel Albergo, et al.
 [From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training](https://arxiv.org/abs/2501.06148)  
 Julius Berner, et al. [[code](https://github.com/GFNOrg/gfn-diffusion/tree/stagger)] 
 
+[Progressive Tempering Sampler with Diffusion](https://arxiv.org/abs/2506.05231)  
+Severi Rissanen, et al. ICML 2025. [[code](https://github.com/cambridge-mlg/Progressive-Tempering-Sampler-with-Diffusion)] 
+
 [Outsourced Diffusion Sampling: Efficient Posterior Inference in Latent Spaces of Generative Models](https://arxiv.org/abs/2502.06999)  
 Siddarth Venkatraman, et al. ICML 2025. [[code](https://github.com/HyperPotatoNeo/Outsourced_Diffusion_Sampling)] 
 
