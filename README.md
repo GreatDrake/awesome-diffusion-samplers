@@ -31,6 +31,9 @@ Siddarth Venkatraman, et al. ICML 2025. [[code](https://github.com/HyperPotatoNe
 [Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](https://arxiv.org/abs/2504.11713)  
 Aaron Havens, et al. ICML 2025. [[code](https://github.com/facebookresearch/adjoint_sampling)] 
 
+[Learned Reference-based Diffusion Sampling for multi-modal distributions](https://arxiv.org/abs/2410.19449)  
+Maxence Noble, et al. ICLR 2025. [[code](https://github.com/h2o64/sde_sampler_lrds)] 
+
 [Sequential Controlled Langevin Diffusions](https://arxiv.org/abs/2412.07081)  
 Junhua Chen, et al. ICLR 2025. [[code](https://github.com/anonymous3141/SCLD)] 
 
