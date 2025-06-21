@@ -22,6 +22,9 @@ Sebastian Sanokowski, et al.
 [Adaptive Destruction Processes for Diffusion Samplers](https://arxiv.org/abs/2506.01541)  
 Timofei Gritsaev, et al. 
 
+[On scalable and efficient training of diffusion samplers](https://arxiv.org/abs/2505.19552)  
+Minkyu Kim, et al. 
+
 [NETS: A Non-Equilibrium Transport Sampler](https://arxiv.org/abs/2410.02711)  
 Michael Samuel Albergo, et al. 
 
