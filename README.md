@@ -31,6 +31,9 @@ Siddarth Venkatraman, et al. ICML 2025. [[code](https://github.com/HyperPotatoNe
 [Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching](https://arxiv.org/abs/2504.11713)  
 Aaron Havens, et al. ICML 2025. [[code](https://github.com/facebookresearch/adjoint_sampling)] 
 
+[Training Neural Samplers with Reverse Diffusive KL Divergence](https://arxiv.org/abs/2410.12456)  
+Jiajun He, et al. AISTATS 2025. [[code](https://github.com/jiajunhe98/DiKL)] 
+
 [Learned Reference-based Diffusion Sampling for multi-modal distributions](https://arxiv.org/abs/2410.19449)  
 Maxence Noble, et al. ICLR 2025. [[code](https://github.com/h2o64/sde_sampler_lrds)] 
 
