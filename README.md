@@ -22,7 +22,7 @@ Sebastian Sanokowski, et al.
 [Adaptive Destruction Processes for Diffusion Samplers](https://arxiv.org/abs/2506.01541)  
 Timofei Gritsaev, et al. 
 
-[From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training](https://arxiv.org/abs/2412.07081)  
+[From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training](https://arxiv.org/abs/2501.06148)  
 Julius Berner, et al. [[code](https://github.com/GFNOrg/gfn-diffusion/tree/stagger)] 
 
 [Outsourced Diffusion Sampling: Efficient Posterior Inference in Latent Spaces of Generative Models](https://arxiv.org/abs/2502.06999)  
