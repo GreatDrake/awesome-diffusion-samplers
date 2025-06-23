@@ -28,6 +28,9 @@ Timofei Gritsaev, et al.
 [On scalable and efficient training of diffusion samplers](https://arxiv.org/abs/2505.19552)  
 Minkyu Kim, et al. 
 
+[Importance Weighted Score Matching for Diffusion Samplers with Enhanced Mode Coverage](https://arxiv.org/abs/2505.19431)  
+Chenguang Wang, et al. 
+
 [NETS: A Non-Equilibrium Transport Sampler](https://arxiv.org/abs/2410.02711)  
 Michael Samuel Albergo, et al. 
 
