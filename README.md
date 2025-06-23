@@ -16,6 +16,9 @@ Rishal Aggarwal, et al. ICLR 2025 Blogpost Track.
 
 ## Papers
 
+[Progressive Inference-Time Annealing of Diffusion Models for Sampling from Boltzmann Densities](https://www.arxiv.org/abs/2506.16471)  
+Tara Akhound-Sadegh, et al. [[code](https://github.com/taraak/pita)] 
+
 [Rethinking Losses for Diffusion Bridge Samplers](https://arxiv.org/abs/2506.10982)  
 Sebastian Sanokowski, et al. 
 
