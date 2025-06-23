@@ -49,6 +49,9 @@ Jiajun He, et al. AISTATS 2025. [[code](https://github.com/jiajunhe98/DiKL)]
 [No Trick, No Treat: Pursuits and Challenges Towards Simulation-free Training of Neural Samplers](https://arxiv.org/abs/2502.06685)  
 Jiajun He, et al. ICLR 2025 Workshop on Frontiers in Probabilistic Inference. 
 
+[Single-Step Consistent Diffusion Samplers](https://arxiv.org/abs/2502.07579)  
+Pascal Jutras-Dubé, et al. ICLR 2025. 
+
 [Adaptive teachers for amortized samplers](https://arxiv.org/abs/2410.01432)  
 Minsu Kim, et al. ICLR 2025. [[code](https://github.com/alstn12088/adaptive-teacher)] 
 
