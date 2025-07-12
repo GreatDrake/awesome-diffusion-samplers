@@ -16,6 +16,9 @@ Rishal Aggarwal, et al. ICLR 2025 Blogpost Track.
 
 ## Papers
 
+[Non-equilibrium Annealed Adjoint Sampler](https://arxiv.org/abs/2506.18165)  
+Jaemoo Choi, et al. 
+
 [Progressive Inference-Time Annealing of Diffusion Models for Sampling from Boltzmann Densities](https://www.arxiv.org/abs/2506.16471)  
 Tara Akhound-Sadegh, et al. [[code](https://github.com/taraak/pita)] 
 
