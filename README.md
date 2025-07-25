@@ -40,6 +40,9 @@ Michael Samuel Albergo, et al.
 [From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training](https://arxiv.org/abs/2501.06148)  
 Julius Berner, et al. [[code](https://github.com/GFNOrg/gfn-diffusion/tree/stagger)] 
 
+[Importance-Weighted Training of Diffusion Samplers](https://openreview.net/forum?id=lHkfoqd6YN)  
+Sanghyeok Choi, et al. ICML 2025 Workshop on Generative AI and Biology. 
+
 [Progressive Tempering Sampler with Diffusion](https://arxiv.org/abs/2506.05231)  
 Severi Rissanen, et al. ICML 2025. [[code](https://github.com/cambridge-mlg/Progressive-Tempering-Sampler-with-Diffusion)] 
 
