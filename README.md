@@ -56,7 +56,7 @@ Aaron Havens, et al. ICML 2025. [[code](https://github.com/facebookresearch/adjo
 Jiajun He, et al. AISTATS 2025. [[code](https://github.com/jiajunhe98/DiKL)] 
 
 [Continuously Tempered Diffusion Samplers](https://arxiv.org/abs/2509.00316)  
-Ezra Erives, et al. ICLR 2025 Workshop on Frontiers in Probabilistic Inference.
+Ezra Erives, et al. ICLR 2025 Workshop on Frontiers in Probabilistic Inference. [[code](https://github.com/eje24/ctds)] 
 
 [Improving the evaluation of samplers on multi-modal targets](https://arxiv.org/abs/2504.08916)  
 Louis Grenioux, et al. ICLR 2025 Workshop on Frontiers in Probabilistic Inference.
