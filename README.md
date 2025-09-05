@@ -16,6 +16,9 @@ Rishal Aggarwal, et al. ICLR 2025 Blogpost Track.
 
 ## Papers
 
+[Energy-Weighted Flow Matching: Unlocking Continuous Normalizing Flows for Efficient and Scalable Boltzmann Sampling](https://arxiv.org/abs/2509.03726)  
+Niclas Dern, et al. 
+
 [Non-equilibrium Annealed Adjoint Sampler](https://arxiv.org/abs/2506.18165)  
 Jaemoo Choi, et al. 
 
